@@ -12,3 +12,11 @@
 <p align="center"> A collection of simple examples to help get started with Kalman Filters.
     <br> 
 </p>
+
+## Installation <a name = "installation"></a>
+
+1. Clone ***kf-examples***.
+
+```shell
+git clone https://github.com/walterlivingston/kf-examples.git
+```
