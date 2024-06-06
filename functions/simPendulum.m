@@ -46,6 +46,7 @@ function [theta_meas, thetad_meas, theta_new, thetad_new] = ...
 %      for i = 2:N
 %          [y(1,i), y(2,i), truth(1,i), truth(2,i)] = simPendulum(0);
 %      end
+% Author: Walter Livingston
 
 arguments
     input double
